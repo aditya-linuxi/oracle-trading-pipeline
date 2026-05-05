@@ -14,4 +14,10 @@ secret_keys.json
 # Large AI Models (If you downloaded any local weights directly to the folder)
 *.bin
 *.gguf
+venv/
+logs/
+*.db
+*.sqlite3
+__pycache__/
+
 .gitignore
